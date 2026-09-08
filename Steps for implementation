@@ -24,7 +24,7 @@ sudo apt install poppler-utils -y
 
 
 Step-1 Download Code
-git clone https://github.com/CloudDevOpsHub/Application-Tracking-System.git
+git clone https://github.com/YG7821/Application-Tracking-System.git
 
 
 Step-2  cd Application-Tracking-System
